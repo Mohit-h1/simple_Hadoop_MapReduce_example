@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import sys
+import syss
 
 # get all lines from stdin
 for line in sys.stdin:
